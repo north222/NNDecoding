@@ -13,9 +13,9 @@
 # limitations under the License.
 # ==============================================================================
 
-c.NotebookApp.ip = '35.189.170.192'
+c.NotebookApp.ip = '*'
 c.NotebookApp.port = 8888
 c.NotebookApp.open_browser = False
 c.MultiKernelManager.default_kernel_name = 'python2'
-c.NotebookApp.token = 'north'
-c.NotebookApp.password = '147258'
+c.NotebookApp.token = ''
+c.NotebookApp.password = ''
