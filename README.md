@@ -1,2 +1,0 @@
-# NNDecoding
-decoding using NN
